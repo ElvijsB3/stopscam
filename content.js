@@ -1,0 +1,1 @@
+// Pašlaik tukšs https://developer.chrome.com/extensions/content_scripts
